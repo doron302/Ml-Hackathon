@@ -55,10 +55,12 @@ This project predicts aspects of a bus line system, including the number of pass
 2. **Model Training**: Use provided scripts to train models. Adjust hyperparameters as needed.
 3. **Evaluation**: Evaluate models on the test set and analyze performance metrics.
 
-
 ## Authors
 
-- 
+- **Roy Mainfeld**
+- **Doron Shwartz**
+- **Karin Lein**
+- **Dvir Gil**
 
 ## Acknowledgments
 
