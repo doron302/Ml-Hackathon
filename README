@@ -55,20 +55,10 @@ This project predicts aspects of a bus line system, including the number of pass
 2. **Model Training**: Use provided scripts to train models. Adjust hyperparameters as needed.
 3. **Evaluation**: Evaluate models on the test set and analyze performance metrics.
 
-## Repository Structure
-
-- `data/`: Raw and preprocessed data
-- `notebooks/`: Jupyter notebooks for analysis and model development
-- `scripts/`: Data preprocessing, model training, and evaluation scripts
-- `results/`: Trained models and performance metrics
 
 ## Authors
 
-- [Your Name](https://github.com/your-github-profile)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- 
 
 ## Acknowledgments
 
